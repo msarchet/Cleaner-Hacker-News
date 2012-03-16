@@ -2,7 +2,7 @@
 
 Cleaner Hacker News is a loose collection of CSS rules that you can use to improve the style of Hacker News (http://hackerne.ws or http://news.ycombinator.com).
 
-Here's a screenshot: ![](https://github.com/Primigenus/Cleaner-Hacker-News/raw/master/screenshot.png)
+Here's a screenshot: ![](https://github.com/msarchet/Cleaner-Hacker-News/raw/master/screenshot.png)
 
 The styles improve the legibility of the page by:
 
@@ -25,4 +25,6 @@ To preview the styles you can paste this Javascript into your address bar:
 
 
 
-Forked from Primigenus, my eyes are great and I wanted to be able to read on smaller monitors and without eye strain. Upped the font sizes and uncenterd.
+Forked from Primigenus, my eyes aren't great and I wanted to be able to read on smaller monitors and without eye strain.
+
+Upped the font sizes and uncenterd the tables.
