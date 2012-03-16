@@ -142,3 +142,6 @@ td.default {
     width: auto;
 }
 
+tr td form {
+    width: 100%;
+}
