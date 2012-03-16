@@ -19,11 +19,10 @@ To apply the styles in Google Chrome, install the Stylebot extension (https://ch
 
 To preview the styles you can paste this Javascript into your address bar:
 
-    javascript:(function(){var st = document.createElement('link');st.type = "text/css";st.href = "https://raw.github.com/Primigenus/Cleaner-Hacker-News/master/cleaner-hn.css";st.rel = "stylesheet";document.body.appendChild(st)})()
+    javascript:(function(){var st = document.createElement('link');st.type = "text/css";st.href = "https://raw.github.com/msarchet/Cleaner-Hacker-News/master/cleaner-hn.css";st.rel = "stylesheet";document.body.appendChild(st)})()
 
 (thanks to jQueryisAwesome on HN)
 
-Also available via Stylebot.me: http://stylebot.me/styles/1107
 
-January 11, 2012
-github.com/primigenus
+
+Forked from Primigenus, my eyes are great and I wanted to be able to read on smaller monitors and without eye strain. Upped the font sizes and uncenterd.
